@@ -1,0 +1,51 @@
+<resources>
+    <!-- APP -->
+    <string name="app_name">GithubApp</string>
+
+    <!-- LOGIN -->
+    <string name="login_hint_email">Email</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_button_login">Login</string>
+    <string name="login_info_login">Use your Github credentials to login.</string>
+
+    <!-- PROFILE -->
+    <string name="profile_info_type">Type</string>
+    <string name="profile_info_username">Username</string>
+    <string name="profile_info_company">Company</string>
+    <string name="profile_info_location">Location</string>
+    <string name="profile_info_email">Email</string>
+    <string name="profile_info_bio">Bio</string>
+    <string name="profile_info_name">Name</string>
+    <string name="profile_button_logout">Log out</string>
+
+    <!-- REPO -->
+    <string name="repo_info_created">Created at</string>
+    <string name="repo_info_issues">Issues</string>
+    <string name="repo_info_forks">Forks</string>
+    <string name="repo_info_watchers">Watchers</string>
+    <string name="repo_info_description">Description</string>
+    <string name="repo_info_name">Name</string>
+    <string name="repo_button_view">View</string>
+
+    <!-- USER -->
+    <string name="user_info_type">Type</string>
+    <string name="user_info_username">Username</string>
+    <string name="user_info_company">Company</string>
+    <string name="user_info_location">Location</string>
+    <string name="user_info_email">Email</string>
+    <string name="user_info_bio">Bio</string>
+    <string name="user_info_name">Name</string>
+    <string name="user_button_view">View</string>
+
+    <!-- ERROR -->
+    <string name="error_access">Access error</string>
+    <string name="error_network">Network error</string>
+    <string name="error_unknown">Unknown error</string>
+
+    <!-- MESSAGE -->
+    <string name="message_wrong_credentials">Wrong username or password</string>
+
+    <!-- HELPERS -->
+    <string name="placeholder_dots">...</string>
+    <string name="empty"> </string>
+</resources>
